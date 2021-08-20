@@ -18,4 +18,4 @@ In exploratory analysis we analyse the dataset to find useful important insights
 **Conclusion**   
 With this analysis we can better know the best places to visit in india and tailor the packages according to the users taste.
 
-[link to the notebook here]()
+[link to the notebook here](https://github.com/thennarasur/Web-scraping-and-EDA/blob/main/Travel%20Agency%20Web%20Scraping%20and%20EDA.ipynb)
